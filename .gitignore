@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.idea
+/.next/*
+.next/bundles/pages/_document.js
+.next/bundles/pages/_error.js
+.next/bundles/pages/index.js
+.next/commons.js
+.next/dist/pages/index.js
+.next/main.js
+.next/manifest.js
